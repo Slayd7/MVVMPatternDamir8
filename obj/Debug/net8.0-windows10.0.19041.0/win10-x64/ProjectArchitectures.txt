@@ -1,0 +1,1 @@
+F:\MVVMPatternIbragimov8\MVVMPatternIbragimov8.csproj;x64
